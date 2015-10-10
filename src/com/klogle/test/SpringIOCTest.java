@@ -16,7 +16,7 @@ import com.klogle.main.ClassPathXmlApplicationContext;
  * 单元测试
  * @author klogle
  *package:com.klogle.test
- *E-mail:klogle.wang@qq.com
+ *E-mail:klogle.one@qq.com
  */
 public class SpringIOCTest {
 

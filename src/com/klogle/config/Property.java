@@ -4,7 +4,7 @@ package com.klogle.config;
  * 
  * @author klogle
  *package:com.klogle.config
- *E-mail:klogle.wang@qq.com
+ *E-mail:klogle.one@qq.com
  */
 public class Property {
 

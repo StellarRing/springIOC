@@ -19,7 +19,7 @@ import com.klogle.config.Property;
  * 配置信息加载器
  * @author klogle
  *package:com.klogle.config.parse
- *E-mail:klogle.wang@qq.com
+ *E-mail:klogle.one@qq.com
  */
 public class ConfigManager {
 

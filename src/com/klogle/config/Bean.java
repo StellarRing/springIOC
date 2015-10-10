@@ -7,7 +7,7 @@ import java.util.List;
  * 
  * @author klogle
  *package:com.klogle.config
- *E-mail:klogle.wang@qq.com
+ *E-mail:klogle.one@qq.com
  */
 public class Bean {
 	private String id;

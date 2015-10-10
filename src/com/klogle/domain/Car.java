@@ -1,10 +1,10 @@
 package com.klogle.domain;
 
 /**
- * 
+ * carBean
  * @author klogle
  *package:com.klogle.domain
- *E-mail:klogle.wang@qq.com
+ *E-mail:klogle.one@qq.com
  */
 public class Car {
 

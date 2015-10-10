@@ -1,10 +1,10 @@
 package com.klogle.domain;
 
 /**
- * 
+ * Person Bean
  * @author klogle
  *package:com.klogle.domain
- *E-mail:klogle.wang@qq.com
+ *E-mail:klogle.one@qq.com
  */
 public class Person {
 

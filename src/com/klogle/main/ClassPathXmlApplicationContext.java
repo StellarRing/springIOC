@@ -14,10 +14,10 @@ import com.klogle.config.parse.ConfigManager;
 import com.klogle.utils.BeanFactoryUtil;
 
 /**
- * IOC核心
+ * IOC控制核心
  * @author klogle
  *package:com.klogle.main
- *E-mail:klogle.wang@qq.com
+ *E-mail:klogle.one@qq.com
  */
 public class ClassPathXmlApplicationContext implements BeanFactory {
 

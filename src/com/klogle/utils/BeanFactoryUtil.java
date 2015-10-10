@@ -12,7 +12,7 @@ import com.klogle.config.Bean;
  * 工具类：获取对象set属性
  * @author klogle
  *package:com.klogle.utils
- *E-mail:klogle.wang@qq.com
+ *E-mail:klogle.one@qq.com
  */
 public class BeanFactoryUtil {
 
