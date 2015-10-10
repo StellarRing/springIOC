@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans>
+	<!-- 将Car配置到配置文件 -->
+	<bean id="carBean" class="com.klogle.domain.Car" scope="prototype">
+
+		<!-- 为Car注入name属性值 -->
+		<property name="name" value="BMW-Z4"></property>
+	</bean>
+	<!-- 将Person配置到配置文件
+	ref的scope此时跟bean的scope一致，原理：在IOC容器中已存在的对象不会再次创建，即singleton模式
+	 -->
+	<bean id="person" class="com.klogle.domain.Person" scope="prototype">
+		<!-- 为Person注入依赖属性值 -->
+		<property name="car" ref="carBean"></property>
+		<property name="name" value="刘德华"></property>
+	</bean>
+	<bean id="highway" class="com.klogle.domain.Highway">
+		<!-- 为Person注入依赖属性值 -->
+		<property name="name" value="美国50号公路"></property>
+		<property name="length" value="4841"></property>
+	</bean>
+</beans>
